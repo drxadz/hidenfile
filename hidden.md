@@ -1,2 +1,1 @@
-user: admin
-pass: this@passwd32
+Because it was a bad influence, always encouraging them to do shady things!
